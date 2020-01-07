@@ -1,0 +1,26 @@
+
+pip install multiprocessing -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install logging  -i  https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+//½ØÍ¼µÄ
+pip install pyautogui -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install PyQt5 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install pyautogui  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyperclip   -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install numpy  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install matplotlib -i  https://pypi.tuna.tsinghua.edu.cn/simple
+pip install gc -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pythoncom -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install PyMouse  -i  https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyuserinput   -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install python-xlib -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install PyUserinput -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyautogui -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+pywin32 pyHook  ÔÚwhlÀï
